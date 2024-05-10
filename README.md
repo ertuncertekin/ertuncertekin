@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ertuncertekin
-- 👀 I’m interested in Html, Css, JavaScript, React Projects
-- 🌱 I’m currently learning React and MongoDB
+- 👀 I’m interested in Html, Css, Bootstrap, JavaScript, TypeScript and Angular Projects
+- 🌱 I’m currently learning Java,Angular and Postgresql
 - 💞️ I am considering collaborating with software developers in my common interests.
 - 📫 You can contact me at ertekinertunc@gmail.com
 
