@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ertuncertekin
-- 👀 I’m interested in Html, Css, Bootstrap, JavaScript, TypeScript and Angular Projects
+- 👀 I’m interested in Spring Boot, Angular, PostgreSQL, Bootstrap.
 - 🌱 I’m currently learning Java,Angular and Postgresql
 - 💞️ I am considering collaborating with software developers in my common interests.
 - 📫 You can contact me at ertekinertunc@gmail.com
